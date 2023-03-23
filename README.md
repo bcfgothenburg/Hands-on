@@ -7,6 +7,7 @@ Here you will find short exercises that are covered at our 1-hour hands-on sessi
 * [Volcano Plots](https://github.com/bcfgothenburg/Hands-on/wiki/Volcano-Plots)
 * [Venn Diagrams](https://github.com/bcfgothenburg/Hands-on/wiki/Venn-Diagrams)
 * [Scatter plots](https://github.com/bcfgothenburg/Hands-on/wiki/Scatter-plots)
+* [Data wrangling with R using tidyverse](https://github.com/bcfgothenburg/Hands-on/wiki/Data-wrangling-with-R-using-tidyverse)
 
 
 For more information on current hands-on sessions can be found at our official [webpage](https://www.gu.se/en/core-facilities/bioinformatics-bcf/education-and-training#Hands-on)
