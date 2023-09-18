@@ -1,153 +1,153 @@
-id	gender	treatment	height	weight
-1	Boys	High	121.5	23.5
-2	Boys	High	121.2	23.3
-3	Boys	Low	111	19.2
-4	Girls	High	115.7	19
-5	Boys	High	101.2	14.5
-6	Boys	High	120.2	25
-7	Boys	High	101.2	12.8
-8	Boys	Low	94.1	13.4
-9	Girls	Low	114	19.2
-10	Boys	High	98.4	17.9
-11	Boys	Low	118.4	19.4
-12	Girls	Low	119.3	17.9
-13	Boys	Low	124.2	23.2
-14	Girls	High	110	19.4
-15	Girls	High	99.6	14.9
-16	Boys	Low	106.3	15.5
-17	Girls	High	113.8	18.7
-18	Girls	High	102.9	15.3
-19	Boys	High	95.8	14.2
-20	Girls	High	105.2	16.3
-21	Boys	High	116.4	23.1
-22	Boys	High	111.1	18.3
-23	Girls	Low	95.5	14.6
-24	Boys	High	104.7	16
-25	Boys	High	87.9	13.6
-26	Boys	High	102.2	16.7
-27	Boys	High	115	23.5
-28	Girls	High	91.5	12.1
-29	Girls	Low	105.8	17.5
-30	Boys	High	93	13
-31	Boys	Low	88.9	12
-33	Boys	High	93.9	13.3
-34	Boys	High	110.7	20
-35	Boys	High	115.2	19.9
-36	Boys	Low	124.5	38.4
-37	Girls	Low	104.9	14.6
-38	Boys	High	101.9	15.9
-39	Boys	High	112.3	19.6
-40	Boys	High	84.2	12.5
-41	Boys	Low	87.7	12.1
-42	Girls	Low	107.6	17.5
-43	Boys	High	97.2	15.2
-44	Girls	High	102.2	14.5
-45	Boys	Low	108.7	16.6
-46	Boys	High	116.8	22.2
-47	Boys	High	96.8	14.7
-48	Girls	High	101	17.2
-49	Girls	High	108.7	16.7
-50	Girls	Low	101.4	16.6
-51	Girls	High	87.2	10.3
-52	Girls	Low	88.6	11.1
-53	Boys	Low	118.5	22.6
-54	Boys	High	99.5	16.6
-55	Boys	High	115.7	20.8
-56	Boys	Low	105.4	17.3
-57	Boys	High	94	13.9
-58	Boys	High	126.3	24.8
-59	Girls	High	116.6	19.8
-60	Boys	High	105.8	16.3
-61	Girls	Low	115	24
-62	Boys	Low	123.5	25.2
-63	Boys	High	124	24
-64	Boys	High	99.3	16.1
-65	Boys	High	95	16
-66	Girls	High	118.2	23.8
-67	Girls	Low	92.8	13
-68	Boys	Low	101.2	14
-69	Boys	High	98.3	13.8
-70	Girls	High	104.7	15.7
-71	Boys	High	119.9	20.9
-72	Girls	High	118.4	23.9
-73	Girls	Low	109.6	17.5
-74	Boys	High	109.1	17
-75	Girls	High	115.3	20.5
-76	Boys	High	98	14.9
-77	Boys	Low	102.5	15.9
-78	Boys	High	113	20.9
-79	Boys	High	82.2	12.5
-80	Girls	Low	104.6	16.1
-81	Boys	High	115.8	20.8
-82	Girls	High	99.5	14.5
-83	Boys	High	124.4	29.8
-84	Girls	High	112	22
-85	Boys	High	123.8	23
-86	Girls	Low	114.9	25.3
-87	Girls	High	104	13.3
-88	Girls	High	81	9.9
-89	Boys	High	123.5	22.5
-90	Boys	Low	106.2	19.1
-91	Girls	High	112	18.1
-92	Boys	Low	93	13.8
-93	Girls	Low	117.1	22.7
-94	Girls	High	103.7	16
-95	Boys	High	91.7	12.9
-96	Boys	Low	89.9	13
-97	Boys	High	94.1	13.9
-98	Boys	High	118.3	20.1
-99	Boys	Low	116.5	21.2
-100	Boys	High	95.7	15.9
-101	Boys	High	108.4	15.8
-102	Boys	High	125.6	27.2
-103	Boys	High	116.8	20.1
-104	Boys	High	110	19.7
-105	Boys	Low	113.3	18.1
-106	Girls	High	104.5	14.9
-107	Boys	Low	94.2	13
-108	Girls	Low	109.3	22.2
-109	Boys	High	93.8	17.2
-110	Boys	Low	112	19.9
-111	Girls	High	107.3	17.9
-112	Boys	High	88.8	14.6
-113	Boys	Low	89.5	12.5
-114	Girls	High	118.2	21.3
-115	Boys	High	100	16.8
-116	Girls	High	111.5	21.8
-117	Boys	Low	117.5	24.5
-118	Girls	High	91	13.6
-119	Girls	High	76	9.6
-120	Boys	Low	113.4	19.2
-121	Girls	High	119.6	22.7
-122	Boys	Low	116.1	23
-123	Boys	High	122.1	23.6
-124	Boys	High	115.5	21.9
-125	Girls	Low	103.9	18.1
-126	Boys	High	115.5	21.9
-127	Girls	High	113.8	22.5
-128	Boys	High	126.7	25
-129	Boys	High	96.1	14.6
-130	Boys	High	114	19.4
-131	Boys	Low	111	18.5
-132	Boys	High	117	21.9
-133	Boys	High	98.8	16.6
-134	Boys	Low	122.2	24.4
-135	Girls	High	97.5	13.5
-136	Boys	Low	115.5	17.7
-137	Boys	High	127.5	29.7
-138	Girls	High	99.5	15.3
-139	Boys	Low	97.3	13.7
-140	Boys	High	117.3	18.2
-141	Girls	High	115.6	19.8
-142	Boys	High	103.2	16.1
-143	Boys	Low	85	10.6
-144	Girls	Low	93	13.2
-145	Girls	High	103.8	19.2
-146	Girls	Low	116.7	20.8
-147	Boys	High	100.2	14.4
-148	Boys	Low	83.8	11
-149	Girls	High	94.5	14.1
-150	Girls	High	111.3	18.9
-151	Boys	Low	116.1	19.1
-152	Girls	High	108	16.7
-153	Boys	High	87	11.5
+id	gender	height	weight
+1	Girls	121.5	23.5
+2	Girls	121.2	23.3
+3	Girls	111	19.2
+4	Girls	115.7	19
+5	Girls	101.2	14.5
+6	Girls	120.2	25
+7	Girls	101.2	12.8
+8	Girls	94.1	13.4
+9	Girls	114	19.2
+10	Girls	98.4	17.9
+11	Girls	118.4	19.4
+12	Girls	119.3	17.9
+13	Girls	124.2	23.2
+14	Girls	110	19.4
+15	Girls	99.6	14.9
+16	Girls	106.3	15.5
+17	Girls	113.8	18.7
+18	Girls	102.9	15.3
+19	Girls	95.8	14.2
+20	Girls	105.2	16.3
+21	Girls	116.4	23.1
+22	Girls	111.1	18.3
+23	Girls	95.5	14.6
+24	Girls	104.7	16
+25	Girls	87.9	13.6
+26	Girls	102.2	16.7
+27	Girls	115	23.5
+28	Girls	91.5	12.1
+29	Girls	105.8	17.5
+30	Girls	93	13
+31	Girls	88.9	12
+33	Girls	93.9	13.3
+34	Girls	110.7	20
+35	Girls	115.2	19.9
+36	Girls	124.5	38.4
+37	Girls	104.9	14.6
+38	Girls	101.9	15.9
+39	Girls	112.3	19.6
+40	Girls	84.2	12.5
+41	Girls	87.7	12.1
+42	Girls	107.6	17.5
+43	Girls	97.2	15.2
+44	Girls	102.2	14.5
+45	Girls	108.7	16.6
+46	Girls	116.8	22.2
+47	Girls	96.8	14.7
+48	Girls	101	17.2
+49	Girls	108.7	16.7
+50	Girls	101.4	16.6
+51	Girls	87.2	10.3
+52	Girls	88.6	11.1
+53	Girls	118.5	22.6
+54	Girls	99.5	16.6
+55	Girls	115.7	20.8
+56	Girls	105.4	17.3
+57	Girls	94	13.9
+58	Girls	126.3	24.8
+59	Girls	116.6	19.8
+60	Girls	105.8	16.3
+61	Girls	115	24
+62	Girls	123.5	25.2
+63	Girls	124	24
+64	Girls	99.3	16.1
+65	Girls	95	16
+66	Girls	118.2	23.8
+67	Girls	92.8	13
+68	Girls	101.2	14
+69	Girls	98.3	13.8
+70	Girls	104.7	15.7
+71	Girls	119.9	20.9
+72	Girls	118.4	23.9
+73	Girls	109.6	17.5
+74	Girls	109.1	17
+75	Girls	115.3	20.5
+76	Girls	98	14.9
+77	Girls	102.5	15.9
+78	Girls	113	20.9
+79	Girls	82.2	12.5
+80	Girls	104.6	16.1
+81	Girls	115.8	20.8
+82	Girls	99.5	14.5
+83	Girls	124.4	29.8
+84	Girls	112	22
+85	Girls	123.8	23
+86	Girls	114.9	25.3
+87	Girls	104	13.3
+88	Girls	81	9.9
+89	Girls	123.5	22.5
+90	Girls	106.2	19.1
+91	Girls	112	18.1
+92	Girls	93	13.8
+93	Girls	117.1	22.7
+94	Girls	103.7	16
+95	Girls	91.7	12.9
+96	Girls	89.9	13
+97	Girls	94.1	13.9
+98	Girls	118.3	20.1
+99	Girls	116.5	21.2
+100	Girls	95.7	15.9
+101	Girls	108.4	15.8
+102	Girls	125.6	27.2
+103	Girls	116.8	20.1
+104	Girls	110	19.7
+105	Girls	113.3	18.1
+106	Girls	104.5	14.9
+107	Girls	94.2	13
+108	Girls	109.3	22.2
+109	Girls	93.8	17.2
+110	Girls	112	19.9
+111	Girls	107.3	17.9
+112	Girls	88.8	14.6
+113	Girls	89.5	12.5
+114	Girls	118.2	21.3
+115	Girls	100	16.8
+116	Girls	111.5	21.8
+117	Girls	117.5	24.5
+118	Girls	91	13.6
+119	Girls	76	9.6
+120	Girls	113.4	19.2
+121	Girls	119.6	22.7
+122	Girls	116.1	23
+123	Girls	122.1	23.6
+124	Girls	115.5	21.9
+125	Girls	103.9	18.1
+126	Girls	115.5	21.9
+127	Girls	113.8	22.5
+128	Girls	126.7	25
+129	Girls	96.1	14.6
+130	Girls	114	19.4
+131	Girls	111	18.5
+132	Girls	117	21.9
+133	Girls	98.8	16.6
+134	Girls	122.2	24.4
+135	Girls	97.5	13.5
+136	Girls	115.5	17.7
+137	Girls	127.5	29.7
+138	Girls	99.5	15.3
+139	Girls	97.3	13.7
+140	Girls	117.3	18.2
+141	Girls	115.6	19.8
+142	Girls	103.2	16.1
+143	Girls	85	10.6
+144	Girls	93	13.2
+145	Girls	103.8	19.2
+146	Girls	116.7	20.8
+147	Girls	100.2	14.4
+148	Girls	83.8	11
+149	Girls	94.5	14.1
+150	Girls	111.3	18.9
+151	Girls	116.1	19.1
+152	Girls	108	16.7
+153	Girls	87	11.5
