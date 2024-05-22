@@ -11,7 +11,7 @@ Here you will find short exercises that are covered at our 1-hour hands-on sessi
 * [Linear and logistic regression in R](https://github.com/bcfgothenburg/Hands-on/wiki/Linear-and-logistic-regression-in-R)
 * [Plotting data distributions using R](https://github.com/bcfgothenburg/Hands-on/wiki/Plotting-data-distributions-using-R)
 * [Data wrangling with R using tidyverse part 2](https://github.com/bcfgothenburg/Hands-on/wiki/Data-wrangling-with-R-using-tidyverse-part-2)
-* [PCA and (O)PLS]([https://github.com/bcfgothenburg/Hands-on/wiki/Data-wrangling-with-R-using-tidyverse-part-2](https://github.com/bcfgothenburg/Hands-on/wiki/PCA-and-OPLS))
+* [PCA and (O)PLS](https://github.com/bcfgothenburg/Hands-on/wiki/PCA-and-OPLS)
 
 
 
