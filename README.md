@@ -16,6 +16,7 @@ Here you will find short exercises that are covered at our 1-hour hands-on sessi
 * [Scraping data from the web using R](https://github.com/bcfgothenburg/Hands-on/wiki/Scraping-data-from-the-web-using-R)
 * [Volcano plots from scratch using ggplot2](https://github.com/bcfgothenburg/Hands-on/wiki/Volcano-plots-from-scratch-using-ggplot2)
 * [Publication ready summary- and result tables](https://github.com/bcfgothenburg/Hands-on/wiki/Publication%E2%80%90ready-summary%E2%80%90-and-result-tables)
+* *[Survival analysis](https://github.com/bcfgothenburg/Hands-on/wiki/Survival-analysis)
 
 
 
